@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<!--<img src="https://tenor.com/view/code-matrix-gif-15241589">
+
+![](https://tenor.com/view/code-matrix-gif-15241589)
+
+![new](https://user-images.githubusercontent.com/102231498/159876262-1be244fe-4866-44bd-8b95-4830ad4055d9.gif)
+
+
 <!--
 **RadoslavBukov/RadoslavBukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
