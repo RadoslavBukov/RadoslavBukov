@@ -20,8 +20,8 @@ Gaming platforms:
 
 <a href=" " target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Games/Battlenet.png" height="30" /></a> BattleTag: RaDy#2662
 
-<p align="left"> 
-<img align="" height='150px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='150px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<p align="center"> 
+<img align="" height='200px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
 <hr>
 
