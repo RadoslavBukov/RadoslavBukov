@@ -4,7 +4,7 @@
           - 📝 Leader of Automation Department
           - 💻 PLC Programmer (ST, Beckhoff, TwinCAT)
 - 📚 SoftUni (in process): Python Web Developer 🐍
-- ⚡ Hobbies: ⚽️Football(Play & Watch) 🎮Gaming(PS4 & PC) 🏂Snowboarding 🦾Fitness 🏍Motorcycle
+- ⚡ Hobbies: ⚽️Football 🎮Gaming 🏂Snowboarding 🦾Fitness 🏍Motorcycle
 
 Find me around the web:
 <p align="left">
