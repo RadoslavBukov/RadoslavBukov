@@ -21,7 +21,6 @@
             <li>🎮Gaming</li>
             <li>🏂Snowboarding</li>
             <li>🦾Fitness</li>
-            <li>🏍Motorcycle</li>
           </ul>
 </ul>
 
