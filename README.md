@@ -49,7 +49,7 @@ Gaming platforms:
 </a>
 
 <p align="center"> 
-<img align="" height='200px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<img align="" height='200px' color="black" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
 <hr>
 
