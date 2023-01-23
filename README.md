@@ -38,6 +38,16 @@ Gaming platforms:
 
 <a href=" " target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Games/Battlenet.png" height="30" /></a> BattleTag: RaDy#2662
 
+<br/>
+<a href="https://github.com/RadoslavBukov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBukov&layout=compact&theme=vue" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/RadoslavBukov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RadoslavBukov&show_icons=true&hide_title=true&count_private=true&theme=vue" />
+</a>
+
 <p align="center"> 
 <img align="" height='200px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
