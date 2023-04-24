@@ -40,10 +40,10 @@ Gaming platforms:
 
 <br/>
 <a href="https://github.com/RadoslavBukov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBukov&layout=compact&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBukov&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/RadoslavBukov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RadoslavBukov&show_icons=true&hide_title=true&count_private=true&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RadoslavBukov&show_icons=true&theme=dark&hide_title=true&count_private=true&theme=vue" />
 </a>
 
 <br/>
