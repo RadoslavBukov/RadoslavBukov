@@ -1,4 +1,4 @@
-### Radoslav Bukov
+## Radoslav Bukov
 
 <ul>
     <li>🎓 Education: </li>
@@ -24,7 +24,7 @@
           </ul>
 </ul>
 
-Find me around the web:
+###Find me around the web:
 <p align="left">
 <a href="https://www.linkedin.com/in/radoslav-bukov-b0a62183/" target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Social/transparent-Linkedin-logo-icon.png" alt="" height="30" /> </a>
 <a href="https://www.facebook.com/RadoslawBukow/" target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Social/facebook.png" alt="" height="30" /> </a>
@@ -32,12 +32,14 @@ Find me around the web:
 <a href="mailto:radoslaw.bukow@gmail.com" target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Social/chrome.png" alt="" height="30" /> </a>
 </p>
 
-Gaming platforms:
+###Gaming platforms:
 
 <a href=" " target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Games/PlayStation.png" height="30" /></a> Online ID: RuDy_9009
 
 <a href=" " target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Games/Battlenet.png" height="30" /></a> BattleTag: RaDy#2662
 
+
+###GitHub Stats
 <br/>
 <a href="https://github.com/RadoslavBukov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBukov&layout=compact&theme=dark" />
