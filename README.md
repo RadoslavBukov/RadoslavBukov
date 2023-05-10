@@ -11,7 +11,7 @@
             <li>💻 PLC Programmer (ST, Beckhoff, TwinCAT)</li>
         </ul>
     </li>
-    <li>📚 SoftUni (in process): </li>
+    <li>📚 SoftUni: </li>
           <ul>
             <li>🐍 Python Web Developer</li>
           </ul>
