@@ -5,7 +5,7 @@
 https://radoslavbukov.eu/
 </a>
 
-
+Details:
 <ul>
     <li>🎓 Education: </li>
         <ul>
