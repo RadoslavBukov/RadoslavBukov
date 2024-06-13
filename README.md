@@ -15,13 +15,6 @@
           <ul>
             <li>🐍 Python Web Developer</li>
           </ul>
-    <li>⚡ Hobbies:</li>
-          <ul>
-            <li>⚽️Football</li>
-            <li>🎮Gaming</li>
-            <li>🏂Snowboarding</li>
-            <li>🦾Fitness</li>
-          </ul>
 </ul>
 
 ### Find me around the web:
@@ -31,12 +24,6 @@
 <a href="https://www.instagram.com/radoslav_bukov/" target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Social/instagram.png" alt="" height="30" /> </a>
 <a href="mailto:radoslaw.bukow@gmail.com" target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Social/chrome.png" alt="" height="30" /> </a>
 </p>
-
-### Gaming platforms:
-
-<a href=" " target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Games/PlayStation.png" height="30" /></a> Online ID: RuDy_9009
-
-<a href=" " target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Games/Battlenet.png" height="30" /></a> BattleTag: RaDy#2662
 
 
 ### GitHub Stats
