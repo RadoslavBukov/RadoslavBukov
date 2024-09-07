@@ -8,20 +8,22 @@ https://radoslavbukov.eu/
 <p></p>
 Details:
 <ul>
-    <li>🎓 Education: </li>
+    <li>👨🏼‍💻 Experience:
         <ul>
-            <li>⚙️ Master Engineer of Automation, Information and Control Technique</li>
-        </ul>
-    <li>👨🏼‍💻 Currently working in Automotive Industry as:
-        <ul>
-            <li>📝 Leader of Automation Department</li>
-            <li>💻 PLC Programmer (ST, Beckhoff, TwinCAT)</li>
+            <ul>
+                <li>💻 DevOps Engineer</li>
+            </ul>
+            <ul> Automotive industry 10 years:
+                <li>📝 Automation Department Team Lead</li>
+                <li>💻 PLC Programmer (ST, Beckhoff, TwinCAT)</li>
+            </ul>
         </ul>
     </li>
-    <li>📚 SoftUni: </li>
-          <ul>
-            <li>🐍 Python Web Developer</li>
-          </ul>
+    <li>🎓 Education: </li>
+        <ul>
+            <li>📚 Technical University: ⚙️ Master Engineer of Automation, Information and Control Technique</li>
+            <li>📚 SoftUni: 🐍 Python Web Developer</li>
+        </ul>
 </ul>
 
 ### Find me around the web:
