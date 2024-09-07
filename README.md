@@ -10,13 +10,13 @@ Details:
 <ul>
     <li>👨🏼‍💻 Experience:
         <ul>
-            <ul>
+            <li>
                 <li>💻 DevOps Engineer</li>
-            </ul>
-            <ul> Automotive industry 10 years:
+            </li>
+            <li> Automotive industry 10 years:
                 <li>📝 Automation Department Team Lead</li>
                 <li>💻 PLC Programmer (ST, Beckhoff, TwinCAT)</li>
-            </ul>
+            <li>
         </ul>
     </li>
     <li>🎓 Education: </li>
