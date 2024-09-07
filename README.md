@@ -12,7 +12,7 @@ Details:
         <ul>
             <li> Currently:</li>
                 <li>💻 DevOps Engineer</li>
-            <li> Automotive industry (10 years):<li>
+            <li> Automotive industry (10 years):</li>
                 <li>📝 Automation Department Team Lead</li>
                 <li>💻 PLC Programmer (ST, Beckhoff, TwinCAT)</li>
         </ul>
