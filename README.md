@@ -67,18 +67,6 @@ https://radoslavbukov.eu/
 
 ---
 
-## 📊 Technology Breakdown
-
-```
-Frontend Development  ████████████████░░░░░░░░ 35%
-Python Backend        ████████████████████░░░░ 28%
-Database & SQL        ████████░░░░░░░░░░░░░░░░ 12%
-DevOps & Tools        ████████░░░░░░░░░░░░░░░░ 15%
-PLC/Industrial        ██████░░░░░░░░░░░░░░░░░░ 10%
-```
-
----
-
 ## 📁 Featured Projects
 
 ### 1. 🏠 **Meraklii Guest House Website** 🏡
@@ -140,19 +128,26 @@ PLC/Industrial        ██████░░░░░░░░░░░░░�
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/RadoslavBukov">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBukov&layout=compact&theme=dark&hide=html" />
-</a>
-</p>
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/RadoslavBukov">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RadoslavBukov&show_icons=true&hide_title=false&count_private=true&theme=dark" />
-</a>
-</p>
+![GitHub followers](https://img.shields.io/github/followers/RadoslavBukov?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/RadoslavBukov?style=social)
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=RadoslavBukov&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBukov&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <br/>
 
