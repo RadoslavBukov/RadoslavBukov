@@ -5,23 +5,25 @@
 https://radoslavbukov.eu/
 </a>
 
-<p></p>
-Details:
+**Details:**
 <ul>
     <li>👨🏼‍💻 Experience:
         <ul>
-            <li> Currently:</li>
-                <li>💻 DevOps Engineer</li>
-            <li> Automotive industry (10 years):</li>
-                <li>📝 Automation Department Team Lead</li>
-                <li>💻 PLC Programmer (ST, Beckhoff, TwinCAT)</li>
+            <li>Currently: 💻 DevOps Engineer</li>
+            <li>Automotive industry (10 years):
+                <ul>
+                    <li>📝 Automation Department Team Lead</li>
+                    <li>💻 PLC Programmer (ST, Beckhoff, TwinCAT)</li>
+                </ul>
+            </li>
         </ul>
     </li>
-    <li>🎓 Education: </li>
+    <li>🎓 Education:
         <ul>
             <li>📚 Technical University: ⚙️ Master Engineer of Automation, Information and Control Technique</li>
             <li>📚 SoftUni: 🐍 Python Web Developer</li>
         </ul>
+    </li>
 </ul>
 
 ### Find me around the web:
@@ -32,6 +34,133 @@ Details:
 <a href="mailto:radoslaw.bukow@gmail.com" target="blank"><img align="center" src="https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Social/chrome.png" alt="" height="30" /> </a>
 </p>
 
+---
+
+## 🛠️ Technologies & Stack
+
+### Backend & Frameworks
+- **Python** - Web development, automation, data processing
+  - Django (4.1.4) - Full-stack web framework with PostgreSQL
+  - FastAPI - Modern async web APIs
+  - Flask - Lightweight micro-framework
+- **PLC Programming** - ST language, Beckhoff TwinCAT, Industrial Automation
+- **DevOps** - CI/CD pipelines, GitHub Actions, containerization
+
+### Frontend & Web Technologies
+- **Angular** - Enterprise-level SPA with TypeScript, RxJS, Modern tooling
+  - Angular Material, Tailwind CSS, routing, testing
+- **HTML5** - Semantic markup, accessibility best practices
+- **CSS3** - Flexbox, Grid, responsive design, animations, Tailwind CSS
+- **JavaScript** - ES6+, vanilla JS, DOM manipulation, event handling
+- **Vue.js** - Component-based reactive framework
+
+### Databases & Data
+- **PostgreSQL** - Relational database, advanced queries, transactions
+- **SQL** - Complex queries, optimization, indexing
+
+### Tools & DevOps
+- **Docker** - Containerization, multi-stage builds, docker-compose
+- **GitHub** - Version control, CI/CD workflows, GitHub Actions
+- **Testing** - Jest, Cypress, unit testing, E2E testing
+- **Linting & Code Quality** - ESLint, StyleLint, HTMLHint, Prettier
+- **Linux/Unix** - Shell scripting, system administration
+
+---
+
+## 📁 Featured Projects
+
+### 1. 🏠 **Meraklii Guest House Website**
+**Technologies:** HTML5 • CSS3 • JavaScript • Responsive Design • EmailJS  
+**Description:** Modern, fully responsive website for a Bulgarian guest house with 10+ rooms, amenities showcase, contact system, and SEO optimization.  
+**Features:**
+- Mobile-optimized design with dynamic galleries
+- Image optimization for fast loading
+- Contact form with email notifications
+- Responsive layouts for all devices
+- **Link:** https://meraklii-smilyan.com/
+
+### 2. 🚗 **ServiceBook - Vehicle Maintenance Tracker**
+**Technologies:** Django • PostgreSQL • Python • Bootstrap • HTML/CSS  
+**Description:** Comprehensive digital service book for managing vehicle maintenance records, taxes, and service history.  
+**Features:**
+- User authentication & authorization
+- Vehicle management system
+- Service history tracking
+- Tax documentation handling
+- Admin panel for data management
+- Database-driven with relational queries
+
+### 3. 📊 **Angular Skeleton - Enterprise SPA**
+**Technologies:** Angular • TypeScript • Tailwind CSS • Jest • Cypress • Docker • NgRx  
+**Description:** Full-featured Angular application scaffold with modern development practices and DevOps integration.  
+**Features:**
+- Modular component architecture
+- Routing and lazy loading
+- Unit & E2E testing setup
+- Docker containerization
+- Development and production builds
+- Code linting and formatting standards
+
+### 4. 💼 **RadoslavBukov.github.io - Portfolio**  
+**Technologies:** HTML5 • CSS3 • JavaScript • EmailJS • Responsive Design  
+**Description:** Personal portfolio website showcasing projects, experience, and technical skills.  
+**Features:**
+- Clean, modern design
+- Project portfolio section
+- Responsive across devices
+- Performance-optimized
+- **Link:** https://radoslavbukov.eu/
+
+### 5. 🌐 **Multimash Website**
+**Technologies:** Vanilla HTML • CSS3 • JavaScript • No Frameworks  
+**Description:** Professional business website built with pure vanilla web technologies.  
+**Features:**
+- Framework-free implementation
+- Optimized performance
+- SEO-friendly structure
+- Responsive gallery system
+- **Link:** http://www.multimash.bg/
+
+### 6. ▶️ **YouTube Downloader**
+**Technologies:** Python • GUI (Tkinter) • FFmpeg  
+**Description:** Desktop application for downloading YouTube videos and converting media formats.  
+**Features:**
+- Graphical user interface
+- Multiple format support
+- Batch processing
+- Error handling and logging
+
+---
+
+## 💡 Professional Experience & Expertise
+
+### Web Development Skills
+- **Full-Stack Development** - Backend (Django, Python) + Frontend (Angular, HTML/CSS/JS)
+- **Responsive Web Design** - Mobile-first approach, CSS frameworks, accessibility standards
+- **Single Page Applications** - Component architecture, state management, routing
+- **Database Design** - PostgreSQL optimization, relational modeling, complex queries
+- **API Development** - RESTful services, authentication, error handling
+
+### DevOps & Infrastructure
+- **Containerization** - Docker, multi-container applications, CI/CD pipelines
+- **Automation** - GitHub Actions workflows, automated testing, deployment automation
+- **Code Quality** - Linting, testing frameworks, code review processes
+- **Linux Administration** - System configuration, shell scripting, deployment
+
+### Code Quality & Best Practices
+- Clean code architecture
+- SOLID principles
+- Test-driven development (TDD)
+- Git workflow & version control
+- Documentation standards
+- Performance optimization
+
+### Domain Expertise
+- **Automation & Industrial Systems** - 10+ years experience, PLC programming, system integration
+- **Team Leadership** - Automation Department Team Lead experience
+- **Problem Solving** - Complex technical challenges, optimization, troubleshooting
+
+---
 
 ### GitHub Stats
 <br/>
